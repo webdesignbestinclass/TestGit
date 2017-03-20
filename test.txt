@@ -8,6 +8,7 @@ This is my first test file at git.This is my first test file at git.
 This is my first test file at git.
 This is my first test file at git.
 
+<<<<<<< HEAD
 this is another script........................
 this is another script........................
 this is another script........................
@@ -16,3 +17,18 @@ this is another script........................
 this is another script........................
 this is another script........................
 
+=======
+
+
+Junaid is coming
+Junaid is coming
+
+Junaid is coming
+
+Junaid is coming
+Junaid is coming
+>>>>>>> bbb01e91d60b870e445b11070d30ea397c0a274f
+=========
+
+now 3-20-2017
+thanks
